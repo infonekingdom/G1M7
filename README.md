@@ -30,6 +30,7 @@ after installed the macOS, you need dissable the sleepmode. because he screen ca
 主板：G1 sniper M7 intel B150M
 
 显卡：集成显卡（穷，买不起独显）
+注意：安装完系统要关闭睡眠和显示器节能，因为睡眠后显示器不能点亮。
 
 
 ##关于作者
