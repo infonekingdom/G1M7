@@ -34,4 +34,4 @@ after installed the macOS, you need dissable the sleepmode. because he screen ca
 
 
 ##关于作者
-![infone](https://https://github.com/infonekingdom/G1M7/raw/master/infone.png) 
+![infone](https://https://github.com/infonekingdom/G1M7/raw/master/infone.png) 微信：infonekingdom
